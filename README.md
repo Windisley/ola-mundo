@@ -1,2 +1,2 @@
-# ola mundo
- CURSO GIT
+# olà, mundo
+ CURSO GIT, Gustavo Guanabara
